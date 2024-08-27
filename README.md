@@ -4,6 +4,9 @@ Data structures and algorithms – the core of every coding interview, but also 
 
 The algorithms and data structures implemented in this repository come from [Techie Delight](https://www.techiedelight.com/data-structures-and-algorithms-problems/). Thank you for making this available free of charge.
 
+> [!IMPORTANT]
+> Many of these data structures are NOT implemented in a performant way. Their purpose is to work, have fun building them, and learn something along the way.
+
 ## My Challenge
 
 I want to solve at least 100 problems per year. This may sound simple, but for me it is not as easy as you think, because I...
