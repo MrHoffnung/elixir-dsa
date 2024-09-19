@@ -1,6 +1,6 @@
 # Zetro
 
-Zetro is a collection of retro games written in [Zig](https://github.com/ziglang/zig).. The goal is to learn Zig and Raylib by implementing retro games. The games are implemented using the [Raylib library](https://github.com/Not-Nik/raylib-zig/tree/devel), which provides a simple and efficient way to create 2D games and applications.
+Zetro is a collection of retro games written in [Zig](https://github.com/ziglang/zig). The goal is to learn Zig and Raylib by implementing retro games. The games are implemented using the [Raylib library](https://github.com/Not-Nik/raylib-zig/tree/devel), which provides a simple and efficient way to create 2D games and applications.
 
 <br>
 
