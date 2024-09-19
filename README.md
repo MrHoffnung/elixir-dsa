@@ -11,6 +11,6 @@ Zetro is a collection of retro games written in Zig.. The goal is to learn Zig a
 
 I'm getting the project ideas from [this list](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/). The following games are implemented:
 
-> [!CAUTION]
+> [!NOTE]
 > Unfortunately, I haven't implemented any of the games yet. I know I'm lazy...
 
